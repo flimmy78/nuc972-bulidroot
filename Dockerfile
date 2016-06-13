@@ -1,7 +1,7 @@
 #
-# Ubuntu Dockerfile
+# NUC972-buildroot Dockerfile
 #
-# https://github.com/dockerfile/ubuntu
+# https://github.com/jinhe1314/nuc972-bulidroot
 #
 FROM ubuntu:14.04
 MAINTAINER King Jin <gojinhe@gmail.com>
