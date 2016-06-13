@@ -52,6 +52,7 @@ RUN wget -nv https://github.com/jinhe1314/nuc972-bulidroot/raw/master/buildroot_
   cp buildroot_config_nuc972_qt4 .config
 RUN touch .config
 RUN touch kernel.config
+RUN make
 VOLUME /root/buildroot
 
 CMD ["/bin/bash"]
