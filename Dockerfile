@@ -1,3 +1,8 @@
+#
+# Ubuntu Dockerfile
+#
+# https://github.com/dockerfile/ubuntu
+#
 FROM ubuntu:14.04
 MAINTAINER King Jin <gojinhe@gmail.com>
 
